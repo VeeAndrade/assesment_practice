@@ -1,0 +1,7 @@
+starting a campfire
+1 find location
+1.1 clear location
+2 look for sticks and dry figs and leaves
+2.1 pick up sticks
+2.1.1 evaluate whether stick is dry enough
+2.1.2
